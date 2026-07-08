@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Sanika Kolape Portfolio Website
 
 A modern and responsive personal portfolio website built using HTML, CSS and JavaScript.
@@ -42,3 +43,7 @@ Portfolio/
 **Sanika Kolape**
 
 Future Cloud Engineer | Web Developer
+=======
+# AWS-Static-Website
+My first AWS static  website project
+>>>>>>> 8ba5ac1c41be74ea004b952d0b02a03dba70c397
