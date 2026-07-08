@@ -25,7 +25,7 @@ A modern and responsive personal portfolio website built using HTML, CSS and Jav
 
 ## 🌐 Live Website
 
-https://San2121ika45.github.AWS-Static-Website/
+https://San2121ika45.github.professtional-portfolio-Website/
 
 ## 📂 Project Structure
 
@@ -44,6 +44,6 @@ Portfolio/
 
 Future Cloud Engineer | Web Developer
 =======
-# AWS-Static-Website
-My first AWS static  website project
+# professtional-portfolio-website
+My first professtional portfolio website
 >>>>>>> 8ba5ac1c41be74ea004b952d0b02a03dba70c397
