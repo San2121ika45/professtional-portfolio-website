@@ -25,7 +25,7 @@ A modern and responsive personal portfolio website built using HTML, CSS and Jav
 
 ## 🌐 Live Website
 
-https://San2121ika45.github.AWS-Static-Website/
+https://San2121ika45.github.com/professtional-protfolio-Website/
 
 ## 📂 Project Structure
 
